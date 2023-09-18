@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg>
-    <symbol id="linkin" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+    <symbol id="linkedin" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
         <g clip-path="url(#clip0_583829_681)">
             <path d="M15.996 15.9999V15.9992H16V10.1312C16 7.26053 15.382 5.04919 12.026 5.04919C10.4126 5.04919 9.32997 5.93453 8.88797 6.77386H8.8413V5.31719H5.6593V15.9992H8.97264V10.7099C8.97264 9.31719 9.23664 7.97053 10.9613 7.97053C12.6606 7.97053 12.686 9.55986 12.686 10.7992V15.9999H15.996Z" fill="#F4F4FD"/>
             <path d="M0.264038 5.31787H3.58137V15.9999H0.264038V5.31787Z" fill="#F4F4FD"/>
@@ -99,7 +99,7 @@
         <path d="M34.3285 10.1415L33.8132 12.2131C33.9551 12.2483 37.2885 13.1166 37.2885 16.5108H39.4219C39.4218 12.4765 36.0906 10.5799 34.3285 10.1415Z" fill="#2E2F42"/>
         <path d="M39.422 18.644H37.2886V20.7775H39.422V18.644Z" fill="#2E2F42"/>
     </symbol>
-    <symbol id="Client 1" width="168" height="88" viewBox="0 0 168 88" fill="none">
+    <symbol id="Client1" width="168" height="88" viewBox="0 0 168 88" fill="none">
         <g>
             <rect id="Rectangle 9" x="0.5" y="0.5" width="167" height="87" rx="3.5"/>
             <g id="Logo ">
@@ -109,7 +109,7 @@
             </g>
         </g>
     </symbol>
-    <symbol id="Client 2" width="168" height="88" viewBox="0 0 168 88" fill="none">
+    <symbol id="Client2" width="168" height="88" viewBox="0 0 168 88" fill="none">
         <g>
             <rect id="Rectangle 9" x="0.5" y="0.5" width="167" height="87" rx="3.5"/>
             <g id="Logo ">
@@ -139,7 +139,7 @@
             </g>
         </g>
     </symbol>
-    <symbol id="Client 3" width="168" height="88" viewBox="0 0 168 88" fill="none">
+    <symbol id="Client3" width="168" height="88" viewBox="0 0 168 88" fill="none">
         <g>
             <rect id="Rectangle 9" x="0.5" y="0.5" width="167" height="87" rx="3.5"/>
             <g id="Logo">
@@ -163,7 +163,7 @@
             </g>
         </g>
     </symbol>
-    <symbol id="Client 4" width="168" height="88" viewBox="0 0 168 88" fill="none">
+    <symbol id="Client4" width="168" height="88" viewBox="0 0 168 88" fill="none">
         <g>
             <rect id="Rectangle 9" x="0.5" y="0.5" width="167" height="87" rx="3.5"/>
             <g id="Logo">
@@ -176,7 +176,7 @@
             </g>
         </g>
     </symbol>
-    <symbol id="Client 5" width="168" height="88" viewBox="0 0 168 88" fill="none">
+    <symbol id="Client5" width="168" height="88" viewBox="0 0 168 88" fill="none">
         <g>
             <rect id="Rectangle 9" x="0.5" y="0.5" width="167" height="87" rx="3.5"/>
             <g id="Logo">
@@ -195,7 +195,7 @@
             </g>
         </g>
     </symbol>
-    <symbol id="Client 6" width="168" height="88" viewBox="0 0 168 88" fill="none">
+    <symbol id="Client6" width="168" height="88" viewBox="0 0 168 88" fill="none">
         <g>
             <rect id="Rectangle 9" x="0.5" y="0.5" width="167" height="87" rx="3.5"/>
             <g id="Logo">
