@@ -96,7 +96,10 @@ section {
     letter-spacing: 0.32px;}
 .section-hero {
     display:flex;
-    background-color: var(--navyblue);
+    background-image: url("/images/hero-bg.jpeg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
     flex-shrink: 0;
     padding: 120px;
 }
@@ -155,11 +158,9 @@ section {
     letter-spacing: 0.32px;
 }
 .section-services {
-    padding: 0px;
-}
-.services section {
     width: 1440px;
     height: 2592px;
+    padding: 120px;
 }
 .services-title {
     color: var(--navyblue);
