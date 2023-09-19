@@ -133,6 +133,7 @@ section {
     padding-top:120px;
 }
 .features-list {
+    margin-top: 120px;
     display: flex;
     justify-content: space-between;
     gap: 8px;
@@ -144,7 +145,12 @@ section {
     align-items: flex-start;
 }
 .features-list-item-icon {
-    background-color: var(--green);
+    width: 264px;
+    height: 112px;
+    flex-shrink: 0;
+    gap: 8px;
+    border-radius: 4px;
+    background: var(--cloud);
 }
 .features-list-item-title, .ourteam-list-item-title, .demo-list-item-title {
     color: var(--navyblue);
@@ -216,9 +222,19 @@ section {
 .ourteam-list-item{
     background-color: var(--white);
 }
-.ourteam-list-item-socmed {
+.ourteam-list-item-icon{
+    display:flex;
+    justify-content: space-evenly;
+    width: 264px;
+    margin-top: 24px;
+    
+}
+.ourteam-list-item-icon .socmed-icon{
+    background-color: var(--iris);
     width: 40px;
     height: 40px;
+    border-radius: 50%;
+    flex-shrink: 0;
 }
 .ourcustomers-title {
     color: var(--navyblue);
@@ -319,7 +335,16 @@ footer {
     line-height: 24px; /* 150% */
     letter-spacing: 0.32px;
 }
-
-.footer-socmed{
-    background-color: var(--cloud);
+.icon-list-item-icon{
+    display:flex;
+    justify-content: space-evenly;
+    width: 264px;
+    margin-top: 24px;
+}
+.icon-list-item-icon .socmed-icon{
+    background-color: var(--iris);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    flex-shrink: 0;
 }
