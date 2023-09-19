@@ -236,6 +236,9 @@ section {
     border-radius: 50%;
     flex-shrink: 0;
 }
+.ourteam-list-item-icon .socmed-icon:hover{
+    background-color: var(--green);
+}
 .ourcustomers-title {
     color: var(--navyblue);
     text-align: center;
@@ -348,3 +351,5 @@ footer {
     border-radius: 50%;
     flex-shrink: 0;
 }
+.icon-list-item-icon .socmed-icon:hover{
+    background-color: var(--green);
