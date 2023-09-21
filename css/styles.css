@@ -235,16 +235,24 @@ section {
     margin-top: 24px;
     
 }
+.ourteam-list-item-icon-socmed-icon-svg{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--iris);
+    flex-shrink: 0;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
 .ourteam-list-item-icon-socmed-icon{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: var(--iris);
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    flex-shrink: 0;
+    width: 16px;
+    height: 16px;
 }
+
 
 .ourcustomers-title {
     color: var(--navyblue);
@@ -350,19 +358,28 @@ footer {
     line-height: 24px; /* 150% */
     letter-spacing: 0.32px;
 }
-.icon-list-item-icon{
+.footer-icon-list-item-icon{
     display:flex;
     justify-content: space-evenly;
     width: 264px;
     margin-top: 24px;
 }
-.icon-list-item-icon .socmed-icon{
+.footer-icon-list-item-icon-svg{
+    display:flex;
+    justify-content: center;
+    align-items: center;
     background-color: var(--iris);
+    flex-shrink: 0;
     width: 40px;
     height: 40px;
     border-radius: 50%;
+}
+.footer-list-item-icon-socmed-icon{
+    background-color: var(--iris);
+    width: 16px;
+    height: 16px;
     flex-shrink: 0;
 }
-.icon-list-item-icon .socmed-icon:hover{
+.footer-list-item-icon-socmed-icon:hover{
     background-color: var(--green);
 }
