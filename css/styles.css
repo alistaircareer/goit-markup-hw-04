@@ -337,6 +337,12 @@ section {
 .demo-list-item-pictures {
     width: 360px;
 }
+.portfolio-overlay-text::before{
+
+}
+.portfolio-overlay-text::after{
+    
+}
 .demo-list-item-subtitle {
     color: var(--SLATE);
     font-size: 16px;

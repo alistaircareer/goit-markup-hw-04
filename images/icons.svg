@@ -99,7 +99,7 @@
         <path d="M34.3285 10.1415L33.8132 12.2131C33.9551 12.2483 37.2885 13.1166 37.2885 16.5108H39.4219C39.4218 12.4765 36.0906 10.5799 34.3285 10.1415Z" fill="#2E2F42"/>
         <path d="M39.422 18.644H37.2886V20.7775H39.422V18.644Z" fill="#2E2F42"/>
     </symbol>
-    <symbol id="Client 1" width="168" height="88" viewBox="0 0 168 88" fill="none">
+    <symbol id="client-1" width="168" height="88" viewBox="0 0 168 88" fill="none">
         <g>
         <rect id="Rectangle 9" x="0.5" y="0.5" width="167" height="87" rx="3.5"/>
         <g id="Logo ">
@@ -109,7 +109,7 @@
         </g>
         </g>
     </symbol>
-    <symbol id="Client 2" width="168" height="88" viewBox="0 0 168 88" fill="none">
+    <symbol id="client-2" width="168" height="88" viewBox="0 0 168 88" fill="none">
         <g>
             <rect id="Rectangle 9" x="0.5" y="0.5" width="167" height="87" rx="3.5"/>
             <g id="Logo ">
@@ -139,7 +139,7 @@
             </g>
         </g>
     </symbol>
-    <symbol id="Client 3" width="168" height="88" viewBox="0 0 168 88" fill="none">
+    <symbol id="client-3" width="168" height="88" viewBox="0 0 168 88" fill="none">
         <g>
             <rect id="Rectangle 9" x="0.5" y="0.5" width="167" height="87" rx="3.5"/>
             <g id="Logo">
@@ -163,7 +163,7 @@
             </g>
         </g>
     </symbol>
-    <symbol id="Client 4" width="168" height="88" viewBox="0 0 168 88" fill="none">
+    <symbol id="client-4" width="168" height="88" viewBox="0 0 168 88" fill="none">
         <g>
             <rect id="Rectangle 9" x="0.5" y="0.5" width="167" height="87" rx="3.5"/>
             <g id="Logo">
@@ -176,7 +176,7 @@
             </g>
         </g>
     </symbol>
-    <symbol id="Client 5" width="168" height="88" viewBox="0 0 168 88" fill="none">
+    <symbol id="client-5" width="168" height="88" viewBox="0 0 168 88" fill="none">
         <g>
             <rect id="Rectangle 9" x="0.5" y="0.5" width="167" height="87" rx="3.5"/>
             <g id="Logo">
@@ -195,7 +195,7 @@
             </g>
         </g>
     </symbol>
-    <symbol id="Client 6" width="168" height="88" viewBox="0 0 168 88" fill="none">
+    <symbol id="client-6" width="168" height="88" viewBox="0 0 168 88" fill="none">
         <g>
             <rect id="Rectangle 9" x="0.5" y="0.5" width="167" height="87" rx="3.5"/>
             <g id="Logo">
