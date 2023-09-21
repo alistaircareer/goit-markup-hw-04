@@ -145,18 +145,20 @@ section {
     align-items: flex-start;
 }
 .features-list-item-container{
-    background-color: var(--grey);
+    background-color: var(--cloud);
     display: flex;
     justify-content: center;
     align-items: center;
-}
-.features-list-item-icon {
     width: 264px;
     height: 112px;
     flex-shrink: 0;
     gap: 8px;
     border-radius: 4px;
-    background: var(--cloud);
+}
+.features-list-item-icon {
+    width: 64px;
+    height: 64px;
+    background-color: var(--cloud);
 }
 .features-list-item-title, .ourteam-list-item-title, .demo-list-item-title {
     color: var(--navyblue);
@@ -174,7 +176,6 @@ section {
 }
 .section-services {
     width: 1440px;
-    height: 2592px;
     padding: 120px;
 }
 .services-title {
@@ -252,8 +253,6 @@ section {
     width: 16px;
     height: 16px;
 }
-
-
 .ourcustomers-title {
     color: var(--navyblue);
     text-align: center;
@@ -263,15 +262,18 @@ section {
     letter-spacing: 0.72px;
     text-transform: capitalize;
 }
-.ourcustomers-list {
-    display: flex;
+.ourcustomers-list-item {
+    display: inline;
     justify-content: space-between;
     margin-top: 72px;
     gap: 24px;
+    background-color: var(--cloud);
 }
 .ourcustomers-list-item-icons{
     width: 188px;
     height: 66px;
+    background-color: var(--navy-blue-modal);
+
 }
 .filter {
     padding: 96px 0 72px;
@@ -340,17 +342,24 @@ section {
     letter-spacing: 0.32px;
 }
 
-.ourcustomers-list-item-icons{
-    background-color: var(--green);
-}
-.footer-container {
-    flex-shrink: 0;
-}
 footer {
     margin: 100px o;
     background-color: var(--navyblue);
 }
+.footer-container {
+    display:flex;
+    flex-shrink: 0;
+}
 .footer-content {
+    width: 264px;
+    margin-top: 17.5px;
+    color: var(--cloud);
+    font-size: 16px;
+    line-height: 24px; /* 150% */
+    letter-spacing: 0.32px;
+}
+.footer-content-right{
+    padding-left:120px;
     width: 264px;
     margin-top: 17.5px;
     color: var(--cloud);
