@@ -245,11 +245,6 @@ section {
     border-radius: 50%;
     flex-shrink: 0;
 }
-.ourteam-list-item-icon-socmed-icon-svg{
-    flex-shrink: 0;
-    width: 16px;
-    height: 16px;
-}
 
 .ourcustomers-title {
     color: var(--navyblue);
