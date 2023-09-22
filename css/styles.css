@@ -75,7 +75,7 @@ section {
     display:inline-flex;
     gap: 40px;
 }
- .nav-item {
+.nav-item {
     text-transform: capitalize;}
 .nav-item-link:hover, .nav-item-link:focus, .nav-item-link:active, .address-item-link:hover, .address-item-link:focus, .address-item-link:active {
     color: var(--ocean);}
@@ -96,7 +96,7 @@ section {
     letter-spacing: 0.32px;}
 .section-hero {
     display:flex;
-    background-image: url("/images/hero-bg.jpeg");
+    background-image:linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url("/images/hero-bg.jpeg");
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -266,17 +266,24 @@ section {
     text-transform: capitalize;
 }
 .ourcustomers-list-item {
-    display: inline;
-    justify-content: space-between;
+    display: inline-block;
+    align-items: center;
+    width: 188px;
+    height: 88px;
     margin-top: 72px;
     gap: 24px;
-    background-color: var(--cloud);
+    border-radius: 4px;
+    border: 1px solid var(--light-slate);
+
 }
 .ourcustomers-list-item-icons{
-    width: 188px;
-    height: 66px;
-    background-color: var(--navy-blue-modal);
-
+    display:block;
+    width: 104px;
+    height: 56px;
+    margin-top: 16px;
+    margin-left: 32px;
+    margin-right: 32px;
+    margin-bottom: 16px;
 }
 .filter {
     padding: 96px 0 72px;
@@ -338,8 +345,8 @@ section {
     width: 360px;
 }
 
-.portfolio-overlay-text::before{
-
+.portfolio-overlay-text{
+    background: var(--green);
 }
 .portfolio-overlay-text::after{
 
@@ -361,16 +368,14 @@ footer {
 }
 .footer-content {
     width: 264px;
-    margin-top: 17.5px;
     color: var(--cloud);
     font-size: 16px;
     line-height: 24px; /* 150% */
     letter-spacing: 0.32px;
 }
 .footer-content-right{
-    padding-left:120px;
+    margin-left:120px;
     width: 264px;
-    margin-top: 17.5px;
     color: var(--cloud);
     font-size: 16px;
     line-height: 24px; /* 150% */
@@ -378,7 +383,7 @@ footer {
 }
 .footer-icon-list-item-icon{
     display:flex;
-    justify-content: space-evenly;
+    gap: 16px;
     width: 264px;
     margin-top: 24px;
 }
