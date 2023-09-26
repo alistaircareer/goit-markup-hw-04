@@ -341,15 +341,18 @@ section {
     padding: 0 16px;
 
 }
-.demo-list-item-pictures {
+.demo-list-item-list:hover .demo-list-item-pictures{
+    content:"4 Stylish and User-Friendly App Design Concepts · Task Manager App · Calorie Tracker App · Exotic Fruit Ecommerce App · Cloud Storage App";
+    display:block;
+    position: absolute;
     width: 360px;
-}
-
-.portfolio-overlay-text{
+    height: 360px;
     background: var(--green);
 }
-.portfolio-overlay-text::after{
 
+.demo-list-item-pictures {
+    width: 360px;
+    height: 360px;
 }
 .demo-list-item-subtitle {
     color: var(--SLATE);
