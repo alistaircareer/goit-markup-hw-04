@@ -437,3 +437,38 @@ footer {
 .footer-list-item-icon-socmed-icon:hover{
     background-color: var(--green);
 }
+.modal{
+    position: absolute;
+    top:0;
+    left:0;
+}
+.is-hidden{
+    display: none;
+}
+.modal-content{
+    width: 408px;
+    height: 584px;
+    background-color: #31D0AA;
+}
+.modal-content-button{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--iris);
+    flex-shrink: 0;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.modal-content-icon{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.modal-content-icon-svg{
+    fill: var(--light-slate);
+    display:flex;
+    justify-content: space-evenly;
+    width: 264px;
+    margin-top: 24px;
+}
