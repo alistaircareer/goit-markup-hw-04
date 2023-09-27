@@ -79,7 +79,7 @@ section {
     text-transform: capitalize;
     position: relative;
 }
-.address-item-link:hover, .address-item-link:focus, .address-item-link:active {
+.nav-item:hover .nav-item-link, .address-item-link:hover, .address-item-link:focus, .address-item-link:active {
     color: var(--ocean);}
 .nav-item-link {
     color: var(--navyblue);
