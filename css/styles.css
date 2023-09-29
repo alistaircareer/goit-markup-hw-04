@@ -472,3 +472,12 @@ footer {
     width: 264px;
     margin-top: 24px;
 }
+.modal-form{
+    display:block;
+}
+.modal-form-username{
+}
+.modal-form-username-input{}
+.modal-form-password{}
+.modal-form-password-input{}
+.modal-form-submit{}

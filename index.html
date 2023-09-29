@@ -207,7 +207,15 @@
         <div class="modal is-hidden" data-modal >
             <div class="modal-content">
                 <button class="modal-content-button" data-modal-close><svg class="modal-content-icon"><use class="modal-content-icon-svg" href="./images/icons.svg#close"></use></svg></button>
-
+                <form class="model-form">
+                    <label class="modal-form-username" for="user_email">Email</label>
+                    <input class="modal-form-username-input" type="email" name="email" id="user_email" placeholder="johndoe@example.com"/>
+                  
+                    <label class="modal-form-password" for="user_password">Password</label>
+                    <input class="modal-form-password-input" type="password" name="password" id="user_password" />
+                  
+                    <button class="modal-form-submit" type="submit">Submit</button>
+                  </form>
             </div>
         </div>
         <script src="./js/modal.js"></script>
