@@ -286,6 +286,11 @@ a {
     gap: 24px;
     border-radius: 4px;
     border: 1px solid var(--light-slate);
+    fill:var(--light-slate)
+}
+.ourcustomers-list-item:hover .ourcustomers-list-item-link{
+    fill: var(--ocean);
+    border: var(--ocean);
 
 }
 .ourcustomers-list-item-icons{
