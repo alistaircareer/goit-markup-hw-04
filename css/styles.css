@@ -288,10 +288,9 @@ a {
     border: 1px solid var(--light-slate);
     fill:var(--light-slate)
 }
-.ourcustomers-list-item:hover .ourcustomers-list-item-link{
+.ourcustomers-list-item:hover{
     fill: var(--ocean);
-    border: var(--ocean);
-
+    border: 1px solid var(--ocean);
 }
 .ourcustomers-list-item-icons{
     display:block;
