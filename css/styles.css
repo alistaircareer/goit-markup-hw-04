@@ -210,9 +210,8 @@ a {
     width: 360px;
     height: 300px;
 }
-.ourteam {
+.section-ourteam {
     background-color: var(--cloud);
-    padding: 120px;
 }
 .ourteam-title {
     color: var(--navyblue);
