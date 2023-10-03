@@ -38,11 +38,10 @@ img {
 a {
     text-decoration: none;}
 .container {
-    width: 1158px;
+    width: 1440px;
     margin: 0 auto;}
 .section {
-    padding: 120px 0;
-    width: 1440px;}
+    padding: 120px 0;}
 .logo {
     color: var(--navyblue);
     font-family: 'Raleway',sans-serif;
