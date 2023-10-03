@@ -275,6 +275,11 @@ a {
     letter-spacing: 0.72px;
     text-transform: capitalize;
 }
+.ourcustomers-list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 .ourcustomers-list-item {
     display: inline-block;
     align-items: center;
@@ -292,6 +297,7 @@ a {
 }
 .ourcustomers-list-item-icons{
     display:block;
+    justify-content: center;
     width: 104px;
     height: 56px;
     margin-top: 16px;
@@ -432,7 +438,7 @@ footer {
     height: 16px;
     flex-shrink: 0;
 }
-.footer-list-item-icon-socmed-icon:hover{
+.footer-icon-list-item-icon-svg:hover{
     background-color: var(--green);
 }
 .modal{
